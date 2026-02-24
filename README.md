@@ -61,3 +61,43 @@ Source: Kaggle
 Dataset: Students Social Media Addiction Dataset
 link- https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download
 
+
+📊 Results & Model Outputs
+
+⸻
+
+1️⃣ Dataset Preview
+
+
+⸻
+
+2️⃣ Missing Values Check
+
+
+⸻
+
+3️⃣ Correlation Heatmap
+
+
+⸻
+
+4️⃣ Scatterplot (Usage vs Well-being)
+
+
+⸻
+
+5️⃣ Elbow Method for Optimal Clusters
+
+
+⸻
+
+6️⃣ Cluster-wise Behavioral Analysis (GroupBy)
+
+
+⸻
+
+7️⃣ Linear Regression Results
+
+
+⸻
+
