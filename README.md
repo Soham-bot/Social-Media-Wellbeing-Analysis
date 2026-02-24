@@ -76,6 +76,9 @@ link- https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-rela
 
 2️⃣ Missing Values Check
 
+<img width="462" height="698" alt="image" src="https://github.com/user-attachments/assets/534837d7-3e70-4a43-a856-0eb3d09d992e" />
+
+
 
 ⸻
 
