@@ -68,6 +68,9 @@ link- https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-rela
 
 1️⃣ Dataset Preview
 
+<img width="2742" height="442" alt="image" src="https://github.com/user-attachments/assets/66ec4507-07cc-43b2-af26-86f702b3d7ce" />
+
+
 
 ⸻
 
